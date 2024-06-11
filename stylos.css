@@ -17,5 +17,6 @@ h1{
 .cajaborde{
     border-style: solid;
     border-color:#e7aa1e;
-    height: 30vh; 
+    height: 30vh;
+    padding: 0%; 
 }
